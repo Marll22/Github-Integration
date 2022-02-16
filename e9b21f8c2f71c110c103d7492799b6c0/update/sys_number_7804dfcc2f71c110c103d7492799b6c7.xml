@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_408194_github_ok_github_raghu">x_408194_github_ok_github_raghu</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>GIT</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-16 10:59:15</sys_created_on>
+        <sys_id>7804dfcc2f71c110c103d7492799b6c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GIT</sys_name>
+        <sys_package display_value="GitHub Test Raghu" source="x_408194_github_ok">e9b21f8c2f71c110c103d7492799b6c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub Test Raghu">e9b21f8c2f71c110c103d7492799b6c0</sys_scope>
+        <sys_update_name>sys_number_7804dfcc2f71c110c103d7492799b6c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-16 10:59:15</sys_updated_on>
+    </sys_number>
+</record_update>
