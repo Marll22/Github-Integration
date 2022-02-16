@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_408194_github_ok_github_raghu_third</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-16 11:07:23</sys_created_on>
+        <sys_id>0ce593802fb1c110c103d7492799b671</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_408194_github_ok_github_raghu_third</sys_name>
+        <sys_package display_value="GitHub Test Raghu" source="x_408194_github_ok">e9b21f8c2f71c110c103d7492799b6c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub Test Raghu">e9b21f8c2f71c110c103d7492799b6c0</sys_scope>
+        <sys_update_name>ua_table_licensing_config_0ce593802fb1c110c103d7492799b671</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-16 11:07:23</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>
